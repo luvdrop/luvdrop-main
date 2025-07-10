@@ -1,0 +1,2 @@
+NEXT_PUBLIC_API_URL=https://api.luvdrop.jp
+NOWPAYMENTS_API_KEY=your-key-here
