@@ -1,0 +1,1 @@
+<div>Reusable model card component</div>
