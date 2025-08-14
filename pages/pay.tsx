@@ -1,1 +1,0 @@
-<div>NowPayments Payment Logic Placeholder</div>

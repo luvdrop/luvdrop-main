@@ -1,1 +1,0 @@
-<div>Terms and Conditions Page</div>

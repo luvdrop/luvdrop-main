@@ -1,1 +1,0 @@
-<div>Invite Friends - Track Referrals</div>
