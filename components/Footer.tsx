@@ -1,1 +1,0 @@
-<footer>Footer Info</footer>
